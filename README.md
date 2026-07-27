@@ -20,6 +20,8 @@
 ### 😶‍🌫️ Features 
 - ‼️ Redesign Software Info Page
      - Glow Text Animation 
+     - Customizable Text in Module Advanced Settings 
+          - You should read the "Disclaimer & Usage Notice" Part in Module Advanced Settings before Using 
      - Software Info Card Background = Home Wall
 - Sensitive Information Protection 
      - Auto-Hide the following 
@@ -47,5 +49,4 @@
 ### 🥰 Credits
 - [HeheJuice](https://github.com/HeheJuice),for making the whole Patch and Hook
 - LSPosed Team for the patch method
-
 
