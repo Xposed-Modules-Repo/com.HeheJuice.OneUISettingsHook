@@ -1,3 +1,5 @@
+## English / [中文](READMECN.md) / [Tiếng Việt](READMEVI.md)
+
 <h1 align="center">
   <img loading="lazy" src="Banner/Banner.png"/>
 </h1>
@@ -23,6 +25,7 @@
      - Customizable Text in Module Advanced Settings 
           - You should read the "Disclaimer & Usage Notice" Part in Module Advanced Settings before Using 
      - Software Info Card Background = Home Wall
+- Customizable Product Name
 - Sensitive Information Protection 
      - Auto-Hide the following 
           - IMEI
@@ -38,7 +41,7 @@
 <img loading="lazy" src="Banner/SS2.jpg" width="82" />
 <img loading="lazy" src="Banner/SS3.jpg" width="82" />
 <img loading="lazy" src="Banner/SS4.jpg" width="82" />
-  <img loading="lazy" src="Banner/SS5.jpg" width="82" />
+<img loading="lazy" src="Banner/SS5.jpg" width="82" />
 </div>
 
 ### ℹ️ How to use?
@@ -50,4 +53,3 @@
 ### 🥰 Credits
 - [HeheJuice](https://github.com/HeheJuice),for making the whole Patch and Hook
 - LSPosed Team for the patch method
-
