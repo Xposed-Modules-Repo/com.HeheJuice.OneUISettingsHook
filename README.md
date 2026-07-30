@@ -1,4 +1,4 @@
-## English / [中文](https://github.com/Xposed-Modules-Repo/com.HeheJuice.OneUISettingsHook/blob/main/READMECN.md) / [Tiếng Việt]([READMEVI.md](https://github.com/Xposed-Modules-Repo/com.HeheJuice.OneUISettingsHook/blob/main/READMEVI.md)
+## English / [中文](https://github.com/Xposed-Modules-Repo/com.HeheJuice.OneUISettingsHook/blob/main/READMECN.md) / [Tiếng Việt](https://github.com/Xposed-Modules-Repo/com.HeheJuice.OneUISettingsHook/blob/main/READMEVI.md)
 
 <h1 align="center">
   <img loading="lazy" src="Banner/Banner.png"/>
