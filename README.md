@@ -1,4 +1,4 @@
-## English / [中文](https://github.com/Xposed-Modules-Repo/com.HeheJuice.OneUISettingsHook/blob/main/READMECN.md) / [Tiếng Việt](https://github.com/Xposed-Modules-Repo/com.HeheJuice.OneUISettingsHook/blob/main/READMEVI.md)
+## English / [中文](READMECN.md) / [Tiếng Việt](READMEVI.md)
 
 <h1 align="center">
   <img loading="lazy" src="Banner/Banner.png"/>
@@ -33,6 +33,7 @@
           - Phone Number 
 - Custom Fonts Detection Removed
      - Support Custom Fonts APK
+- Patch to make all app able to clone
 - Unlock Extra Battery Information
 - LSPosed Module Settings
 ### 📂 Preview
@@ -46,7 +47,7 @@
 
 ### ℹ️ How to use?
 - Install the .APK and activate in LSPosed
-- Force-Stop Settings App
+- Open the module Settings and Force-Stop Settings App
 - Re-Open Settings App
 - Not applying ? Open a issue with your Software Details 
 
